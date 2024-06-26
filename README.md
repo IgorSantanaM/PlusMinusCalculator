@@ -21,7 +21,4 @@ Print the following 3 lines, each to 6 decimals:
 - Proportion of negative values
 - Proportion of zeros
 
-### Example
-
-**Input:**
 
